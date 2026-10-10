@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="PicEditSi" width="320">
+<img src="img_7629.png" alt="PicEditSi" width="320">
 
 # piceditsi.com
 
@@ -38,7 +38,7 @@ Aucun prix n'est affiché : chaque offre est étudiée.
 - WhatsApp : [+213 540 02 00 61](https://wa.me/213540020061)
 - Site : [piceditsi.com](https://piceditsi.com)
 
-Également listé sur : [Atom](LIEN_ATOM) · [Namecheap](LIEN_NAMECHEAP)
+Également listé sur : [Atom] · [Namecheap]
 
 ---
 
@@ -68,7 +68,7 @@ No price is listed: every offer is considered.
 - WhatsApp: [+213 540 02 00 61](https://wa.me/213540020061)
 - Website: [piceditsi.com](https://piceditsi.com)
 
-Also listed on: [Atom](LIEN_ATOM) · [Namecheap](LIEN_NAMECHEAP)
+
 
 ---
 
