@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img_7629.png" alt="PicEditSi" width="320">
+<img src="IMG_7629.png" alt="PicEditSi" width="320">
 
 # piceditsi.com
 
